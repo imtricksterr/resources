@@ -10,6 +10,13 @@
 
 ---
 
+## Framework
+
+- **[React Docs](https://react.dev)**
+- **[W3 School Django](https://www.w3schools.com/django/django_intro.php)**
+
+---
+
 ## Backend
 
 - **[FastAPI Docs](https://fastapi.tiangolo.com/learn/)**
@@ -20,6 +27,13 @@
 
 - **[Intro to CSS](https://www.w3schools.com/csS/default.asp)**
 - **[Odin Project HTML/CSS](https://www.theodinproject.com/lessons/foundations-introduction-to-html-and-css)**
+
+---
+
+## System Design
+
+- **[Hello Interview Playlist](https://www.youtube.com/watch?v=fhdPyoO6aXI&list=PL5q3E8eRUieWtYLmRU3z94-vGRcwKr9tM)**
+- **[Low Level Design Repo](https://github.com/ashishps1/awesome-low-level-design)**
 
 ---
 
