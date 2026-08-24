@@ -49,3 +49,4 @@
 
 - **[Justbustin CS Guide](https://docs.google.com/document/d/1Hcn33w8npbkrN0ZiLy5pJqr8Gw_swCRpW_PhYPfi_MQ/edit?tab=t.0)**
 - **[Reddit CS Student 4-Year Plan](https://www.reddit.com/r/cscareerquestions/comments/1qrprw2/cs_student_4year_plan/)**
+- **[Pandas Docs](https://www.w3schools.com/python/pandas/default.asp)**
