@@ -34,6 +34,7 @@
 
 - **[Hello Interview Playlist](https://www.youtube.com/watch?v=fhdPyoO6aXI&list=PL5q3E8eRUieWtYLmRU3z94-vGRcwKr9tM)**
 - **[Low Level Design Repo](https://github.com/ashishps1/awesome-low-level-design)**
+- **[System Design Primer Repo](https://github.com/donnemartin/system-design-primer)**
 
 ---
 
